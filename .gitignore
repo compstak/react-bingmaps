@@ -8,7 +8,6 @@
 
 # production
 /build
-/lib
 /public
 /src/App.css
 /src/App.js
