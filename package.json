@@ -14,10 +14,10 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iniamudhan/react-bingmaps.git"
+    "url": "https://github.com/compstak/react-bingmaps.git"
   },
   "bugs": {
-    "url": "https://github.com/iniamudhan/react-bingmaps/issues"
+    "url": "https://github.com/compstak/react-bingmaps/issues"
   },
   "homepage": "https://github.com/iniamudhan/react-bingmaps",
   "dependencies": {
